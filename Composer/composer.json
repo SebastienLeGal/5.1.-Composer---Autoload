@@ -1,0 +1,10 @@
+{
+    "name": "seb/composer",
+    "authors": [
+        {
+            "name": "seb",
+            "email": "legalsimmo@gmail.com"
+        }
+    ],
+    "require": {}
+}
